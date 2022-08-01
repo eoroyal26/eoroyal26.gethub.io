@@ -1,12 +1,10 @@
-title: Site Title
+title: Elias Royal
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Professional Portfolio
 permalink: '/:title/'
 
 # Author settings
-author: Your Name # add your name
+author: Elias Royal # add your name
 author-pic: yosh-ginsu.jpg
 about-author: About you
 
@@ -18,7 +16,7 @@ linkedin: # Add your Linkedin handle
 github: #Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: eliasroyal7 # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Tracker
