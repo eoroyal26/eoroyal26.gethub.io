@@ -5,12 +5,12 @@ order: 1
 ---
 {% include author-box.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to my professional web portfolio.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Metadata
+- Digital Libraries
 - DLorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
