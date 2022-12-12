@@ -15,4 +15,4 @@ Welcome to my professional web portfolio.
 - Lorem ipsum dolor sit amet
 - Lorem ipsum dolor sit amet
 
-img: https://cdn.pixabay.com/photo/2022/05/23/18/45/bee-7216939_1280.jpg
+https://cdn.pixabay.com/photo/2022/05/23/18/45/bee-7216939_1280.jpg
