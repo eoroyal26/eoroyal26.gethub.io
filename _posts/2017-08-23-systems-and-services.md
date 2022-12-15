@@ -4,6 +4,7 @@ title:  Systems and Services
 date:   2017-08-23 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [e-Portfolio]
+img: systems2.jpg
 author: # Add name author (optional)
 ---
 ## Goal II: Students understand the systems and technologies that facilitate the management and use of information resources to serve the diverse needs of users.
