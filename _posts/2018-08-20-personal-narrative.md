@@ -7,15 +7,22 @@ author: # Add name author (optional)
 ---
 ## My Personal and Professional Journey
 
+### Introduction
+
 To reflect student learning outcomes, I have utilized these outcomes to organize the artifacts within my e-Portfolio.  These student learning outcomes are significant because they encapsulate the learning objectives of the Master of Library and Information Science (MLIS) and the core competencies of the American Library Association. In addition, the artifacts trace my progress and ultimate completion of the 39 credit MLIS program. While simplicity, in design and user interface, is my objective in creating this e-Portfolio, I also want to create a e-Portfolio that communicates my professional development through color selection, design principles, and branding. In addition, I have utilized a GitHub template to build my working e-Portfolio during the first half of the MLIS program. Towards the second half of the MLIS program, I seize this opportunity to practice front-end web development to create a final e-Portfolio.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll(19) also offers powerful support for code snippets:
+In the following section, I wish to include a 3 minute video presentation providing a visual tour of the e-Portfolio:
 
 {% highlight ruby %}
 - Insert YouTube Video Presentation
 {% endhighlight %}
+
+### Body
+
+The leadership and innovation goal showcases four artifacts. Each artifacts reinforce 4 ancillary goals that express my ability to engage and reflect on critical issues within librarianship and the information professional. I have selected these artifacts to clearly convey the core principles of the librarianship and the information profession: access, advocacy, intellectual freedom, literacy, equity, inclusion, and diversity. In addition, these artifacts situate these core principles between a macro perspective and a micro perspective of the library and information profession. One of the artifacts consist of a well-crafted elevator pitch that clearly communicates the relevance and need of libraries to the public. As library services and products evolve beyond the print-book, information professionals must clearly communicate their new role within a technological society. Through these artifacts, I strive to demonstrate how librarians and information professionals can utilize these tools to advocate for their patrons, while also conveying the relevance and necessity of libraries in our society. 
+
+### Conclusion
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
