@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leadership and Innovation
-date:   2017-08-24 13:32:20 +0300
+## Heading level 2: Goal 1
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [e-Portfolio]
 author: # Add name author (optional)
