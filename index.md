@@ -5,13 +5,13 @@ order: 1
 ---
 {% include author-box.html %}
 
-Welcome to my professional web portfolio.
+This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the Masters in Library and Information Science (MLIS) at the University of South Florida's School of Information. As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the feild of Library and Information Science.
 
-## Current Interests and Projects:
+## Learning Outcomes and Co-Curriculars:
 
-- Metadata
-- Digital Libraries
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Leadership and Innovation
+- Systems and Services
+- Knowledge Representation
+- Theory and Praxis
+- Co-Curricular Activities
 
