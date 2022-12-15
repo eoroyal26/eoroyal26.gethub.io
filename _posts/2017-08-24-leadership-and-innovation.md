@@ -6,7 +6,7 @@ tags: [e-Portfolio]
 author: # Add name author (optional)
 img: leadership1.jpg
 ---
-# Goal 1: Leadership and Innovation
+## Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
