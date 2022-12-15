@@ -9,9 +9,9 @@ This e-Portfolio showcases artifacts from academic work and co-curricular activi
 
 ## Learning Outcomes and Co-Curriculars:
 
-- Leadership and Innovation
-- Systems and Services
-- Knowledge Representation
-- Theory and Praxis
+- Goal I: Leadership and Innovation
+- Goal II: Systems and Services
+- Goal III: Knowledge Representation
+- Goal IV: Theory and Praxis
 - Co-Curricular Activities
 
