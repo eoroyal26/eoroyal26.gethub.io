@@ -27,7 +27,7 @@ The leadership and innovation goal showcases four artifacts. Each artifacts rein
 As a Technical Services Librarian, with over 10 years of practical library experience, the MLIS degree has facilitated me with a solid theoretical foundation. With this foundation, I have been able to create an e-Portfolio that expresses the ultimate culmination of my learning outcomes. These learning outcomes relate to being a steward of the profession, a facilitator of services, a communicator of ideas, and an effective researcher and anaylsis of diverse knowledge or ideas. As I reflect on my progress, throughout the MLIS program, I clearly detect how my professional experiences informed my course selection and my co-curricular activities. As a working professional and graduate student, I utilized the MLIS program to fill-in any gaps or deficiencies in my practical or professional experience. 
 
 
-# Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
