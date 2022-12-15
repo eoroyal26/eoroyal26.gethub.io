@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Systems and Services
+title:  Leadership and Innovation
 date:   2017-08-24 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tags: [e-Portfolio, Sunset]
+tags: [e-Portfolio]
 author: # Add name author (optional)
 img: https://cdn.pixabay.com/photo/2022/03/20/21/34/bird-7081904_1280.jpg
 ---
