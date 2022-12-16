@@ -8,7 +8,7 @@ img: leadership1.jpg
 ---
 ## Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
-### Goal I(a)
+### Goal I(a).
 Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 {% highlight ruby %}
@@ -17,7 +17,7 @@ Policy Working Group Forum and Policy Analysis (Link Document)
 {% endhighlight %}
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
-### Goal I(b)
+### Goal I(b).
 Students demonstrate effective communication skills.
 
 {% highlight ruby %}
