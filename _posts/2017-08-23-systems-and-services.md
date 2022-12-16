@@ -12,12 +12,17 @@ author: # Add name author (optional)
 ### Goal II(a).
 Students identify and analyze diverse information needs of individuals and communities.
 
---LIS 5020 Foundation of Library and Information (Core Course)
---Policy Working Group Forum and Policy Analysis (Link Document)
+#### LIS 0000 Course Title (Core Course)
+
+#### Document Title (Link Document)
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
+### Goal II(b). 
+Students evaluate and select print and digital information resources and systems to meet the needs of users.
 
+### Goal II(c). 
+Students understand and use appropriate information technology for information services.
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
