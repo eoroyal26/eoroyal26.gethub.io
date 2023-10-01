@@ -1,6 +1,8 @@
 ---
 layout: home-page
 title: CV
+nav: true
+nav_order: 2
 permalink: /cv/
 order: 2
 ---
