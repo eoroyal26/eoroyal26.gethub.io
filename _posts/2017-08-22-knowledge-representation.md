@@ -3,7 +3,7 @@ layout: post
 title:  Knowledge Representation
 date:   2017-08-22 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tags: [theory-and-praxis, e-Portfolio]
+tags: [e-Portfolio]
 img: knowledge1.jpg
 author: # Add name author (optional)
 ---
