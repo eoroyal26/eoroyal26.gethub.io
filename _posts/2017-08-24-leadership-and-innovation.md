@@ -2,8 +2,7 @@
 layout: post
 title:  Leadership and Innovation
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tags: [systems-and-services, e-Portfolio]
-author: # Add name author (optional)
+tags: [e-Portfolio]
 img: leadership1.jpg
 ---
 ## Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
@@ -11,10 +10,10 @@ img: leadership1.jpg
 ### Goal I(a).
 Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-{% highlight ruby %}
-LIS 5020 Foundation of Library and Information (Core Course)
-Policy Working Group Forum and Policy Analysis (Link Document)
-{% endhighlight %}
+
+>LIS 5020 Foundation of Library and Information (Core Course). Policy Working Group Forum and Policy Analysis (Link Document)
+
+
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(b).
