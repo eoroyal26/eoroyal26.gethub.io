@@ -11,7 +11,8 @@ img: leadership1.jpg
 Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 
->LIS 5020 Foundation of Library and Information (Core Course). Policy Working Group Forum and Policy Analysis (Link Document)
+>LIS 5020 Foundation of Library and Information (Core Course)
+>Policy Working Group Forum and Policy Analysis (Link Document)
 
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
