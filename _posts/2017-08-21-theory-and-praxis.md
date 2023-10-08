@@ -7,7 +7,7 @@ tags: [e-Portfolio]
 img: theory1.jpg
 author: # Add name author (optional)
 ---
-## Goal IV: Students have a critical grounding in theoretical perspectives that draw on research in LIS as well as other fields of knowledge, that inform their professional practices including research, organization, management, and access to information..
+## Goal IV: Students have a critical grounding in theoretical perspectives that draw on research in LIS as well as other fields of knowledge, that inform their professional practices including research, organization, management, and access to information.
 
 ### Goal IV(a). 
 Students will describe applications of quantitative and qualitative research methodologies in library and information science.
