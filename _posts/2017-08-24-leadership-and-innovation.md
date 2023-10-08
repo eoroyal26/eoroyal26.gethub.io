@@ -8,7 +8,7 @@ img: leadership1.jpg
 ## Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
 ### Goal I(a).
-Students are able to evaluate critically, reflect, and problem-solve individually as well as collaboratively.
+Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 
 >LIS 5020 Foundation of Library and Information (Core Course)
