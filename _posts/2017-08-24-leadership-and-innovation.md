@@ -10,37 +10,29 @@ img: leadership1.jpg
 ### Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-
->LIS 5020 Foundation of Library and Information (Core Course)
-
->Policy Working Group Forum and Policy Analysis (Link Document)
-
-
+LIS 5020 Foundation of Library and Information (Core Course)
+Policy Working Group Forum and Policy Analysis (Link Document)
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(b).
 Students demonstrate effective communication skills.
 
-{% highlight ruby %}
 LIS 0000 Course Title (Core Course)
 Document Title (Link Document)
-{% endhighlight %}
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(c). 
 Students participate in professional and community engagement activities in the field.
-{% highlight ruby %}
+
 LIS 0000 Course Title (Core Course)
 Document Title (Link Document)
-{% endhighlight %}
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
-{% highlight ruby %}
+
 LIS 0000 Course Title (Core Course)
 Document Title (Link Document)
-{% endhighlight %}
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 
