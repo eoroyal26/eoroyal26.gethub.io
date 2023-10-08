@@ -12,6 +12,7 @@ Students can evaluate critically, reflect, and problem-solve individually as wel
 
 
 >LIS 5020 Foundation of Library and Information (Core Course)
+
 >Policy Working Group Forum and Policy Analysis (Link Document)
 
 
