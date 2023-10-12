@@ -26,7 +26,7 @@ Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscin
 ### Goal II(c). 
 Students understand and use appropriate information technology for information services.
 
-<p>LIS 6455 Organization and Administration of School Media Center (Elective Course).<br />Collection Assignmenr: Norland Middle School.</p>
+<p>LIS 6455 Organization and Administration of School Media Center (Elective Course).<br/><a href="https://sites.google.com/view/virtual-library-collection/home">Virtual Library Collection: Norland Middle School</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
