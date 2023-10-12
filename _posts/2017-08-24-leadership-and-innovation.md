@@ -12,7 +12,7 @@ Students can evaluate critically, reflect, and problem-solve individually as wel
 
 <p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />School and Collection Overview: Norland Middle School.</p>
 
-<a href="https://eoroyal26.github.io/pdf/School-Collection-Overview_NMS3.pdf" target="_blank">PDF.</a>![image](https://github.com/eoroyal26/eoroyal26.github.io/assets/110421638/0b54cff7-8fab-4abf-8d66-b14df3d8126f)
+<a href="https://eoroyal26.github.io/pdf/School-Collection-Overview_NMS3.pdf" target="_blank">PDF.</a>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
