@@ -9,7 +9,7 @@ author: # Add name author (optional)
 ---
 The following co-curricular activities includes artifacts and examples that were completed outside the 39-credit hour MLIS program. 
 
-TBA 
+UNDERCONSTRUCTION
 
 
 {% highlight ruby %}
