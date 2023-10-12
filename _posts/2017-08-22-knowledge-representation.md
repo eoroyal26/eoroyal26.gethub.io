@@ -12,8 +12,16 @@ author: # Add name author (optional)
 ### Goal III(a). 
 Students analyze, organize, and describe various formats of information objects.
 
+<p>LIS 6726 Metadata (Elective Course).<br />Descriptive Metadata Plan: Benjamin Franklin Papers.</p>
+
+Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
 ### Goal III(b). 
 Students identify and apply best practices in the use of different technologies for knowledge representation.
+
+<p>LIS 6711 Organization of Knowledge I (Core Course).<br />Research Assignment: Latest Developments on BIBFRAME Initiatives</p>
+
+Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
