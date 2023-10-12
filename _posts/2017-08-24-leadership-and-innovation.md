@@ -11,6 +11,7 @@ img: leadership1.jpg
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 <p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />School and Collection Overview: Norland Middle School.</p>
+<embed src="https://eoroyal26.github.io/School-Collection-Overview_NMS3.pdf " type="application/pdf" />
 
 <a href="https://eoroyal26.github.io/pdf/School-Collection-Overview_NMS3.pdf" target="_blank">PDF.</a>
 
