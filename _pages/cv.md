@@ -15,7 +15,6 @@ Current Position Description
 __St. Thomas University__
 Bachelor of English Literature
 
-`1995 - 1997`
 __University of South Florida__
 Prospective Candidate" Master of Arts in Library and Information Science 
 
