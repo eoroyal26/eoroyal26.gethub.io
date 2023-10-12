@@ -12,30 +12,21 @@ author: # Add name author (optional)
 ### Goal II(a).
 Students identify and analyze diverse information needs of individuals and communities.
 
-{% highlight ruby %}
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
-{% endhighlight %}
+<p>LIS 6511 Collection Development (Core Course).<br />Collection Development Policy and Community Profile.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal II(b). 
 Students evaluate and select print and digital information resources and systems to meet the needs of users.
 
-{% highlight ruby %}
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
-{% endhighlight %}
+<p>UNDER CONSTRUCTION - LIS 0000 Course Name (Core Course).<br />Document Name.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal II(c). 
 Students understand and use appropriate information technology for information services.
 
-{% highlight ruby %}
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
-{% endhighlight %}
+<p>LIS 6455 Organization and Administration of School Media Center (Elective Course).<br />Collection Assignmenr: Norland Middle School.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
