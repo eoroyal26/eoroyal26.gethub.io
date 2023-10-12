@@ -10,7 +10,7 @@ img: systems2.jpg
 ### Goal II(a).
 Students identify and analyze diverse information needs of individuals and communities.
 
-<p>LIS 6511 Collection Development (Core Course).<br />Collection Development Policy and Community Profile.</p>
+<p>LIS 6511 Collection Development (Core Course).<br /><a href="https://eoroyal26.github.io/assets/pdf/Collection_Development_Policy_2023_ER5.pdf">Collection Development Policy and Community Profile</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
