@@ -31,7 +31,8 @@ Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscin
 ### Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
-<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />Case Study: Nike's Integrated Enterprise Software.</p>
+<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />[Case Study: Nike's Integrated Enterprise Software](https://www.youtube.com/watch?v=Yc7raLh7rjQ)![image](https://github.com/eoroyal26/eoroyal26.github.io/assets/110421638/b8bae93f-b727-4bd7-90b3-f37e65be7a52)
+.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
