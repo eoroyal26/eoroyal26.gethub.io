@@ -24,14 +24,14 @@ Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscin
 ### Goal I(c). 
 Students participate in professional and community engagement activities in the field.
 
-<p>LIS 6445 Public Library Seminar (Elective Course).<br/>Government Meeting Assignment: Miami Dade County.</p>
+<p>LIS 6445 Public Library Seminar (Elective Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Poster_Managers-of-Digital-Libraries2.pdf">Government Meeting Assignment: Miami Dade County</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
-<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />Case Study: Nike's Integrated Enterprise Software.</p>
+<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br/>Case Study: Nike's Integrated Enterprise Software.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
