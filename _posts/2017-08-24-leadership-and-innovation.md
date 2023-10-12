@@ -12,6 +12,8 @@ Students can evaluate critically, reflect, and problem-solve individually as wel
 
 <p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />School and Collection Overview: Norland Middle School.</p>
 
+<a href="pdf/School-Collection-Overview_NMS3.pdf" class="image fit"><img src="assets/img/leadership1.jpg" alt=""></a>
+
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(b).
@@ -31,7 +33,7 @@ Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscin
 ### Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
-<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />Case Study: Nike's Integrated Enterprise Software. {% include video.html path="https://www.youtube.com/watch?v=Yc7raLh7rjQ" class="img-fluid rounded z-depth-1" %}</p>
+<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />Case Study: Nike's Integrated Enterprise Software.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
