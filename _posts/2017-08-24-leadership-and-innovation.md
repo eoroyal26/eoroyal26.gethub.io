@@ -10,31 +10,28 @@ img: leadership1.jpg
 ### Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-<p>LIS 5020 Foundation of Library and Information (Core Course).<br />Policy Working Group Forum and Policy Analysis (Link Document).</p>
+<p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />School and Collection Overview: Norland Middle School.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(b).
 Students demonstrate effective communication skills.
 
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
+<p>LIS 5020 Foundation of Library and Information (Core Course).<br />Poster Design: Managers of Digital Libraries.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(c). 
 Students participate in professional and community engagement activities in the field.
 
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
+<p>LIS 6445 Public Library Seminar (Elective Course).<br />Government Meeting Assignment: Miami Dade County.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
-LIS 0000 Course Title (Core Course)
-Document Title (Link Document)
+<p>LIS 6404 Project Management for Information Professionals (Elective Course).<br />Case Study: Nike's Integrated Enterprise Software.</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
