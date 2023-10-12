@@ -10,14 +10,14 @@ img: theory1.jpg
 ### Goal IV(a). 
 Students will describe applications of quantitative and qualitative research methodologies in library and information science.
 
-<p>LIS 6271 Research Methods for Library and Information Science (Core Course).<br />Research Proposal: Assessment of User Experience with USF Library's Website Chatbot.</p>
+<p>LIS 6271 Research Methods for Library and Information Science (Core Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Research-Proposal_Group-Project2.pdf">Research Proposal: Assessment of User Experience with USF Library's Website Chatbot</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 ### Goal IV(b). 
 Students will identify opportunities for research and develop plans for research in applied settings in library and information science. 
 
-<p>LIS 0000 Course Title (Core Course).<br />Document Title.</p>
+<p>UNDERCONSTRUCTION_LIS 0000 Course Title (Core Course).<br />Document Title.</p>
 
 Summary of the artifact. TBA. .
 
