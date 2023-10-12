@@ -24,7 +24,7 @@ Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscin
 ### Goal I(c). 
 Students participate in professional and community engagement activities in the field.
 
-<p>LIS 6445 Public Library Seminar (Elective Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Poster_Managers-of-Digital-Libraries2.pdf">Government Meeting Assignment: Miami Dade County</a></p>
+<p>LIS 6445 Public Library Seminar (Elective Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Government-Meeting-Report.pdf">Government Meeting Assignment: Miami Dade County</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
