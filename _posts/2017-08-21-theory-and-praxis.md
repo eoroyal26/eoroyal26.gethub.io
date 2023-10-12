@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Theory and Praxis
-date: 2017-08-21 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [e-Portfolio]
 img: theory1.jpg
-author: # Add name author (optional)
 ---
 ## Goal IV: Students have a critical grounding in theoretical perspectives that draw on research in LIS as well as other fields of knowledge, that inform their professional practices including research, organization, management, and access to information.
 
