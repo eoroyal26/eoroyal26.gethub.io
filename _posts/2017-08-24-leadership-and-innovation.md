@@ -10,10 +10,7 @@ img: leadership1.jpg
 ### Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
-<p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />School and Collection Overview: Norland Middle School.</p>
-
-redirect_from:
-  - /assets/pdf/School-Collection-Overview_NMS3.pdf/School and Collection Overview
+<p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br />[School and Collection Overview: Norland Middle School](https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS3.pdf).</p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
