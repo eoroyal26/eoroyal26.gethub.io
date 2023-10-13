@@ -5,16 +5,16 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tags: [e-Portfolio]
 img: knowledge1.jpg
 ---
-## Goal III: Students are proficient in the theory and application of skills essential for knowledge representation in evolving technology environments, in any chosen area of specialization.
+### Goal III: Students are proficient in the theory and application of skills essential for knowledge representation in evolving technology environments, in any chosen area of specialization.
 
-### Goal III(a). 
+## Goal III(a). 
 Students analyze, organize, and describe various formats of information objects.
 
 <p>LIS 6726 Metadata (Elective Course).<br/><a href="<a href="https://eoroyal26.github.io/assets/pdf/BIBFRAME_Initiatives_ROYAL_v4.pdf">Descriptive Metadata Plan: Benjamin Franklin Papers</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
-### Goal III(b). 
+## Goal III(b). 
 Students identify and apply best practices in the use of different technologies for knowledge representation.
 
 <p>LIS 6711 Organization of Knowledge I (Core Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/BIBFRAME_Initiatives_ROYAL_v4.pdf">Research Assignment: Latest Developments on BIBFRAME Initiatives</a></p>
