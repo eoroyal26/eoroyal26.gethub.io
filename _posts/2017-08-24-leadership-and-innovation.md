@@ -5,30 +5,30 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tags: [e-Portfolio]
 img: leadership1.jpg
 ---
-## Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
+### Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
-### Goal I(a).
+# Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 <p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br /><a href="https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS3.pdf">School and Collection Overview: Norland Middle School</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
-### Goal I(b).
+# Goal I(b).
 Students demonstrate effective communication skills.
 
 <p>LIS 5020 Foundation of Library and Information (Core Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Poster_Managers-of-Digital-Libraries2.pdf">Poster Design: Managers of Digital Libraries</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
-### Goal I(c). 
+# Goal I(c). 
 Students participate in professional and community engagement activities in the field.
 
 <p>LIS 6445 Public Library Seminar (Elective Course).<br/><a href="https://eoroyal26.github.io/assets/pdf/Government-Meeting-Report.pdf">Government Meeting Assignment: Miami Dade County</a></p>
 
 Summary of the artifact. TBA. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
-### Goal I(d). 
+# Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
 <p>LIS 6404 Project Management for Information Professionals (Elective Course).<br/>Case Study: Nike's Integrated Enterprise Software.</p>
