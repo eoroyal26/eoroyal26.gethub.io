@@ -7,7 +7,7 @@ img: leadership1.jpg
 ---
 ### Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
-**# Goal I(a).**
+# Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 <p>LIS 6455 Organization and Administration of the School Media Center (Elective Course).<br /><a href="https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS3.pdf">School and Collection Overview: Norland Middle School</a></p>
