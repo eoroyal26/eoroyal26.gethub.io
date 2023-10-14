@@ -33,6 +33,7 @@ Students demonstrate leadership skills and innovation in diverse and global envi
 
 <p><b>LIS 6404 Project Management for Information Professionals (Elective Course).</b><br/>Case Study: Nike's Integrated Enterprise Software.</p>
 [![Case Study: Nike's Integrated Enterprise Software]({{site.baseurl}}/assets/img/Thumbnail_Casestudy.png)](https://www.youtube.com/watch?v=Yc7raLh7rjQ)
+<small>Click on the image above to access to Youtube video for this presentation.</small>
 
 With this artifact, I demonstrate the importance of leadership and innovation within the context of an integrated enterprise software for a global enterprise. This artifact explores Nike’s project failure that produced a supply chain disruption for the world’s largest shoe and apparel company. Furthermore, this case study aims to explore alternative to how Nike could have led and innovated better processes and procedures to avoid this project failure of a poorly integrated supply chain management (SCM) software, an enterprise resource planning (ERP) software, and a customer relationship management. Ultimately, I chose this project failure because it may serve as a guide for libraries integrating a multitude of technologies and services.
 
