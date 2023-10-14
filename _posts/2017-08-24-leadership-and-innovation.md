@@ -35,6 +35,8 @@ Students demonstrate leadership skills and innovation in diverse and global envi
 [![Case Study: Nike's Integrated Enterprise Software]({{site.baseurl}}/assets/img/Thumbnail_Casestudy.png)](https://www.youtube.com/watch?v=Yc7raLh7rjQ)
 <small>Click on the image above to access the Youtube video for this presentation.</small>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Yc7raLh7rjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 With this artifact, I demonstrate the importance of leadership and innovation within the context of an integrated enterprise software for a global enterprise. This artifact explores Nike’s project failure that produced a supply chain disruption for the world’s largest shoe and apparel company. Furthermore, this case study aims to explore alternative to how Nike could have led and innovated better processes and procedures to avoid this project failure of a poorly integrated supply chain management (SCM) software, an enterprise resource planning (ERP) software, and a customer relationship management. Ultimately, I chose this project failure because it may serve as a guide for libraries integrating a multitude of technologies and services.
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
