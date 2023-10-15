@@ -2,7 +2,7 @@
 layout: post
 title: Co-curricular Activities
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tags: [e-Portfolio]
+tags: [Digital Libraries, Web Development, Professional Development]
 img: co-curricular2.jpg
 author: # Add name author (optional)
 ---
