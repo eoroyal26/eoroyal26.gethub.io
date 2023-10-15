@@ -10,7 +10,7 @@ img: systems2.jpg
 ## Goal II(a).
 Students identify and analyze diverse information needs of individuals and communities.
 
-<p><b>LIS 6511 Collection Development (Core Course).</b><br /><a href="https://eoroyal26.github.io/assets/pdf/Collection_Development_Policy_2023_ER5.pdf">Collection Development Policy and Community Profile</a></p>
+<p><b>LIS 6511 Collection Development (Core Course).</b><br /><a href="https://eoroyal26.github.io/assets/pdf/Collection_Development_Policy_2023_ER5.pdf" target="blank">Collection Development Policy and Community Profile</a></p>
 
 With this artifact, I accomplished my goals of recognizing and examining the varied information needs of individuals and communities within the context of a collection development policy and a community profile. Therefore, I analyzed and identified the information needs of a special library by analyzing the effectiveness, quality, relevance, and scope of the collection’s subject fields, formats, and collection maps. By mapping the collection, I recommended specific actions that addressed collection maintenance, weeding policies, and evaluation procedures to address the needs of the library’s population. By analyzing and identifying these elements, I was able to compare the composition of the collection with the individuals with the community.
 
@@ -25,7 +25,7 @@ Summary of the artifact. TBA.
 ## Goal II(c). 
 Students understand and use appropriate information technology for information services.
 
-<p><b>LIS 6455 Organization and Administration of School Media Center (Elective Course).</b><br/><a href="https://sites.google.com/view/virtual-library-collection/home">Virtual Library Collection: Norland Middle School</a></p>
+<p><b>LIS 6455 Organization and Administration of School Media Center (Elective Course).</b><br/><a href="https://sites.google.com/view/virtual-library-collection/home" target="blank">Virtual Library Collection: Norland Middle School</a></p>
 
 With the Art Corner: Virtual Library Collection, I created a digital collection of ten electronic resources suitable for students from sixth grade to eighth grade. Furthermore, I selected digital resources that adhered to the context of a case study public school and to the State of Florida’s official information standards course descriptions for public schools within the state. In addition, I created a website to provide a description of the resources, and brief description of state standards, and access to the resources. Because I created this artifact in collaboration with a School Library Media Specialist, I utilized accessible tools that can be easily implemented by an instructor with little to no coding skills.
 
