@@ -2,7 +2,7 @@
 layout: post
 title: Theory and Praxis
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tags: [Artifical Intelligence, Linked Data]
+tags: [Artifical Intelligence, Linked Data, Library Services Platform (LSP)]
 img: theory1.jpg
 ---
 ### Goal IV: Students have a critical grounding in theoretical perspectives that draw on research in LIS as well as other fields of knowledge, that inform their professional practices including research, organization, management, and access to information.
