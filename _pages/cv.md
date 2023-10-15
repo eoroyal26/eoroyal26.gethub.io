@@ -12,7 +12,7 @@ Current Position Description
 ## Education
 
 
-<p><b>St. Thomas University__Bachelor of English Literature</b><br/><small>Graduated with honors</small></p>
+<p><b>St. Thomas University</b>Bachelor of English Literature<br/><small>Graduated with honors</small></p>
 
 __University of South Florida__
 Prospective Candidate, Master of Arts in Library and Information Science 
