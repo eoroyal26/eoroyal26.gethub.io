@@ -14,6 +14,7 @@ Current Position Description
 
 __St. Thomas University__
 Bachelor of English Literature
+
 <small>Graduated with honors</small>
 
 __University of South Florida__
@@ -21,7 +22,7 @@ Prospective Candidate, Master of Arts in Library and Information Science
 
 ## Resume
 
-`1994`
+
 Elias Royal Resume, <a href="https://MyWebsite.tld/presentation1">Link to Resume</a>
 
 
