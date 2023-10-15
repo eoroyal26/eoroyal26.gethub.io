@@ -10,7 +10,7 @@ img: theory1.jpg
 ## Goal IV(a). 
 Students will describe applications of quantitative and qualitative research methodologies in library and information science.
 
-<p><b>LIS 6271 Research Methods for Library and Information Science (Core Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Research-Proposal_Group-Project2.pdf">Research Proposal: Assessment of User Experience with USF Library's Website Chatbot</a></p>
+<p><b>LIS 6271 Research Methods for Library and Information Science (Core Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Research-Proposal_Group-Project2.pdf" target="blank">Research Proposal: Assessment of User Experience with USF Library's Website Chatbot</a></p>
 
 As part of a group assignment, I assisted my fellow colleagues situating our research proposal within the context of qualitative research. With a qualitative approach, we utilized grounded theory to ensure validity and reliability throughout the study. While we weighted our options between quantitative and qualitative methodologies, our group chose a qualitative methodology. We all decided that a qualitative methodology was more appropriate in studying the personal experiences of students in relation to Chatbot technology on campus. With a suitable population size and sample, we proposed the utilization of a collaborative analysis software, NVivo, to breakdown data and extract valuable datasets study trends and patterns within the data.
 
