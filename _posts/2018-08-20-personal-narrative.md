@@ -4,7 +4,6 @@ title: Personal Narrative
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [Library Services Platform (LSP), Info. Curation]
 img: narrative1.jpg
-author: # Add name author (optional)
 ---
 ## My Personal and Professional Journey
 
