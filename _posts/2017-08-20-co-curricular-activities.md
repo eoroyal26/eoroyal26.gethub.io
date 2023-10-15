@@ -4,7 +4,6 @@ title: Co-curricular Activities
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tags: [Digital Libraries, Web Development, Professional Development]
 img: co-curricular2.jpg
-author: # Add name author (optional)
 ---
 The following co-curricular activities includes artifacts and examples that were completed outside the 39-credit hour MLIS program. 
 
