@@ -1553,7 +1553,7 @@ pre code {
 
 .blog-tags .tags li a {
   display: inline-block;
-  color: #311e3e;
+  color: #0000FF;
 }
 
 .blog-tags .tags li a:hover {
@@ -1575,7 +1575,7 @@ pre code {
 }
 
 .blog-tags .tag-list small {
-  color: #311e3e;
+  color: #0000FF;
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
