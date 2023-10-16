@@ -35,7 +35,7 @@ As the culminating assignment of the course, I was able to distill all vital ele
 ## Goal I(d). 
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
-<p><b>LIS 6404 Project Management for Information Professionals (Elective Course).</b><br/>Case Study: Nike's Integrated Enterprise Software.</p>
+<p><b>LIS 6404 Project Management for Information Professionals (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Project-Proposal.pdf" target="blank">Case Study: Nike's Integrated Enterprise Software</a></p>
 
 [![Case Study: Nike's Integrated Enterprise Software]({{site.baseurl}}/assets/img/Thumbnail_Casestudy.png)](https://www.youtube.com/watch?v=Yc7raLh7rjQ)
 <small>Click on the image above to access the Youtube video for this presentation.</small>
