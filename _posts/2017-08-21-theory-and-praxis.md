@@ -17,9 +17,10 @@ As part of a group assignment, I assisted my fellow colleagues situating our res
 ## Goal IV(b). 
 Students will identify opportunities for research and develop plans for research in applied settings in library and information science. 
 
-<p><b>UNDERCONSTRUCTION_LIS 0000 Course Title (Core Course).</b><br />Document Title.</p>
+<p><b>LIS 6409 Introduction to Administration (Core Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Annotated-Bibliography-LSP-Migrations_v1.pdf" target="blank">Annotated Bibliography: Managing the Migration of a Library Services Platform</a></p>
 
-Summary of the artifact. TBA. .
+This assignment focuses on the identification of research opportunities and the development of research application. More precisely, this assignment consists of an annotated bibliography that focuses on how libraries manage change throughout the migration to a new library service platform (LSP), which were previous known integrated library systems (ILS). I reviewed articles that highlighted the latest debates and discussions surrounding the best processes and procedures to manage a LSP migrations from premier scholars and researchers. Consequently, this annotation bibliography sets the foundation for a research paper that utilizes a special library as a unique case study. Because I recently managed the LSP migration within a special library, I used this assignment to conduct a strategic scan of the latest literature on this topic. After reviewing these articles, I realized that no research focused on LSP migrations for special libraries within the United States. Ultimately, I would like to use this assignment to begin a research paper focusing on a special library as a case study.
+
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
