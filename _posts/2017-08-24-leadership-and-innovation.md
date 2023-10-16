@@ -14,6 +14,10 @@ Students can evaluate critically, reflect, and problem-solve individually as wel
 
 As a collaborative effort with a Omelia S. Clemmons, School Library Media Specialist at Norland Middle School, I aimed to fulfill the elements of the assignment, while establishing a rapport with Ms. Clemmons. Ms. Clemmons was instrumental in providing access to collection data, budget information, and evaluation for the 2022-2023 academic year. Consequently, I evaluated all pertinent data to ensure a high degree of analytical accuracy that provided a comprehensive overview of the school’s collection and its impact on the school’s academic and instructional goals.
 
+<p><b>LIS 6511 Collection Development (Core Course).</b><br/><a href="https://sites.google.com/view/fairuseguide/home" target="blank">Professional Development Materials for Copyright Compliance</a></p>
+
+In my capacity as Director for Collection Management Services, I noticed a clear misunderstanding from faculty concerning the Fair Use doctrine as outlined by Section 107 of the United States Copyright Act of 1976. Therefore, I have developed a guide that explores the acceptable uses of the Fair Use exception and the clear limitations to this expectation. With this, the University may avoid copyright violation, which be result in a lawsuit from a publisher or author. With this artifact, I can evaluate and reflect on the needs of the faculty, while also resolving their issues with the Fair Use doctrine.
+
 ## Goal I(b).
 Students demonstrate effective communication skills.
 
