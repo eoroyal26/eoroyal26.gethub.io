@@ -18,10 +18,6 @@ With this artifact, I accomplished my goals of recognizing and examining the var
 ## Goal II(b). 
 Students evaluate and select print and digital information resources and systems to meet the needs of users.
 
-<p><b>UNDER CONSTRUCTION - LIS 0000 Course Name (Core Course).</b><br />Document Name.</p>
-
-Summary of the artifact. TBA. 
-
 ## Goal II(c). 
 Students understand and use appropriate information technology for information services.
 
