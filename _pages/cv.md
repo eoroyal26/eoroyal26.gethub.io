@@ -5,30 +5,22 @@ permalink: /cv/
 order: 2
 ---
 
-## Currently
-
-Current Position Description
+## Elias O. Royal
+(786) 274-3186 - eoroyal26@gmail.com
 
 ## Education
-
 
 <p><b>St. Thomas University</b> Bachelor of English Literature<br/><small>Graduated with honors</small></p>
 
 __University of South Florida__
 Prospective Candidate, Master of Arts in Library and Information Science 
 
-## Resume
-
-
-Elias Royal Resume, <a href="https://MyWebsite.tld/presentation1">Link to Resume</a>
-
-
 ## Experience
 
-`Current`
+`2022-Current`
 __Director for Collection Management Services and Collection Management Services Librarian__, St. Thomas University Libraries 
 
-TBA
+Assisted in the strategic alliance and merger of a University Library and a Law Library. Created new strategic operating procedures (SOPs) to reflect the new processes, responsibility, goals, and mission of the Collection Management Services department. Lead the Law Library’s migration to a new library services platform (LSP). Collaborated with LSP vendors on data mapping strategies to ensure a success transfer of data from one LSP to another LSP. Devised efficient methods of improving retrieval of payment records and invoices to track renewal of digital and print resources. Utilized data analytic and manipulation tools to update and maintain bibliographic records. Lead the transition from print to electronic journals or periodicals. 
 
 `2018-2022`
 __Technical Services Librarian__, St. Thomas University, Law Library
