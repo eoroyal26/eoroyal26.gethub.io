@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Knowledge Representation
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Artifcats illustrating proficiency in the theory and application of skills essential for knowledge representation in evolving technology environments, in any chosen area of specialization. # Add post description (optional)
 tags: [Metadata, Linked Data, Library Services Platform (LSP)]
 img: knowledge1.jpg
 ---
