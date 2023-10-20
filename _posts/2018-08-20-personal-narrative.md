@@ -58,11 +58,11 @@ a:hover {
 </style>
 <body>
    
-<div class="flex-parent jc-center">
+<div class="text-center">
 <a href="#" class="previous">&laquo; Previous</a>
 <a href="#" class="next">Next &raquo;</a>
 
-</br><a href="#" class="previous round">&#8249;</a>
+<a href="#" class="previous round">&#8249;</a>
 <a href="#" class="next round">&#8250;</a>
 
 </div>  
