@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Systems and Services
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Understand the systems and technologies that facilitate the management and use of information resources to serve the diverse needs of users. # Add post description (optional)
 tags: [Collection Development, Info. Curation, School & Public Libraries]
 img: systems2.jpg
 ---
