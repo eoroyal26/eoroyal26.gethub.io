@@ -58,17 +58,9 @@ a:hover {
 </style>
 <body>
 
-<center>
- 
-<p align="left">
-<a href="#" class="previous">&laquo; Previous</a>
-</p> 
+<p style="margin: 0; display: inline;"><a href="#" class="previous">&laquo; Previous</a></p>
+<p style="margin: 0; display: inline;" align="right"><a href="#" class="next">Next &raquo;</a></p>
    
-<p align="right">
-<a href="#" class="next">Next &raquo;</a>
-</p> 
-</center>
-
 <a href="#" class="previous round">&#8249;</a>
 <a href="#" class="next round">&#8250;</a>
 
