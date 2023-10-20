@@ -25,6 +25,40 @@ Students understand and use appropriate information technology for information s
 
 With the Art Corner: Virtual Library Collection, I created a digital collection of ten electronic resources suitable for students from sixth grade to eighth grade. Furthermore, I selected digital resources that adhered to the context of a case study public school and to the State of Florida’s official information standards course descriptions for public schools within the state. In addition, I created a website to provide a description of the resources, and brief description of state standards, and access to the resources. Because I created this artifact in collaboration with a School Library Media Specialist, I utilized accessible tools that can be easily implemented by an instructor with little to no coding skills.
 
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #396CAA;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+<body>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="background-color: papayawhip;"><a href="" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: palegoldenrod;"><a href="" class="next">Next &raquo;</a></p>
+</div>
+   
+</body>
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
