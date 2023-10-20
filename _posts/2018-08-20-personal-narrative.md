@@ -25,11 +25,6 @@ The leadership and innovation goal showcases four artifacts. Each artifacts rein
 
 As Director for Collection Management Services, with over 10 years of practical library experience, the MLIS degree has facilitated me with a solid theoretical foundation. With this foundation, I have been able to create an e-Portfolio that expresses the ultimate culmination of my learning outcomes. These learning outcomes relate to being a steward of the profession, a facilitator of services, a communicator of ideas, and an effective researcher who analyzes diverse ideas. As I reflect on my progress, throughout the MLIS program, I clearly detect how my professional experiences informed my course selection and my co-curricular activities. As a working professional and graduate student, I utilized the MLIS program to fill-in any gaps or deficiencies in my practical or professional experience. Thank you for your time.
 
-<div class="flex-parent jc-center">
-   <button type="submit" class="blue margin-right" onclick="window.location.href='https://eoroyal26.github.io/e-portfolio/';">Previous</button>
-  <button type="submit" class="blue" onclick="window.location.href='https://eoroyal26.github.io/statement-of-integrity/';">Next</button>
-</div>
-
 <style>
 a {
   text-decoration: none;
@@ -48,7 +43,7 @@ a:hover {
 }
 
 .next {
-  background-color: #04AA6D;
+  background-color: #396CAA;
   color: white;
 }
 
@@ -59,8 +54,8 @@ a:hover {
 <body>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="background-color: papayawhip;"><a href="#" class="previous">&laquo; Previous</a></p>
-  <p style="background-color: palegoldenrod;"><a href="#" class="next">Next &raquo;</a></p>
+  <p style="background-color: papayawhip;"><a href="https://eoroyal26.github.io/e-portfolio/" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: palegoldenrod;"><a href="https://eoroyal26.github.io/statement-of-integrity/" class="next">Next &raquo;</a></p>
 </div>
    
 </body>
