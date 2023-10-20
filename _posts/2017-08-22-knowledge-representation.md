@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Knowledge Representation
-description: Artifcats illustrating proficiency in the theory and application of skills essential for knowledge representation in evolving technology environments, in any chosen area of specialization. # Add post description (optional)
+description: Artifacts illustrating proficiency in the theory and application of skills essential for knowledge representation in evolving technology environments, in any chosen area of specialization. # Add post description (optional)
 tags: [Metadata, Linked Data, Library Services Platform (LSP)]
 img: knowledge1.jpg
 ---
