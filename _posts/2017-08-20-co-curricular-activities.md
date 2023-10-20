@@ -24,7 +24,40 @@ In “RDA: Now & to the Future” webinar, Robin Fay (Cataloger and Trainer) exp
 
 As an ideal companion piece to the “RDA: Now & to the Future” webinar, “Linking the Data: Metadata & Linked Data” webinar explores the utilization of a linked data strategy with metadata. In addition to outlining the current implementation of linked data and metadata within libraries, the webinar also investigates possible future applications of linked data and metadata within various domains and sectors. Because linked data aims to integrate library records into the semantic web, libraries can engage with individuals through the internet. With libraries having a comprehensive internet presence, libraries can connect individuals to their special collections with linked metadata.
 
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
 
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #396CAA;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+<body>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="background-color: papayawhip;"><a href="" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: palegoldenrod;"><a href="" class="next">Next &raquo;</a></p>
+</div>
+   
+</body>
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
