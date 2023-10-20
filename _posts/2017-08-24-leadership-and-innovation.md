@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leadership and Innovation
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Artificats conveying innovation, ethics, and problem-solving solutions in leading and managing information through communication, collaboration, and reflection. # Add post description (optional)
 tags: [School & Public Libraries, Web Development, Project Management]
 img: leadership1.jpg
 ---
