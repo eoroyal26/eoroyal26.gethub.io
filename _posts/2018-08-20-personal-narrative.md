@@ -57,15 +57,21 @@ a:hover {
 }
 </style>
 <body>
-   
-<div class="text-center">
+<p align="right">
+  <input type="button" value="Click Me" />
+</p>   
+<p align="left">
 <a href="#" class="previous">&laquo; Previous</a>
+</p> 
+   
+<p align="left">
 <a href="#" class="next">Next &raquo;</a>
+</p> 
 
 <a href="#" class="previous round">&#8249;</a>
 <a href="#" class="next round">&#8250;</a>
 
-</div>  
+
 </body>
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
