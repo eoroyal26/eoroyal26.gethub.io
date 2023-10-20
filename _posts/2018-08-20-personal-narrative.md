@@ -57,14 +57,12 @@ a:hover {
 }
 </style>
 <body>
-<p align="right">
-  <input type="button" value="Click Me" />
-</p>   
+ 
 <p align="left">
 <a href="#" class="previous">&laquo; Previous</a>
 </p> 
    
-<p align="left">
+<p align="right">
 <a href="#" class="next">Next &raquo;</a>
 </p> 
 
