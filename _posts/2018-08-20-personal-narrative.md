@@ -57,7 +57,9 @@ a:hover {
 }
 </style>
 <body>
- 
+
+<div class="container">
+  <div class="vertical-center">
 <p align="left">
 <a href="#" class="previous">&laquo; Previous</a>
 </p> 
@@ -68,7 +70,7 @@ a:hover {
 
 <a href="#" class="previous round">&#8249;</a>
 <a href="#" class="next round">&#8250;</a>
-
+</div>
 
 </body>
 
