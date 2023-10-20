@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Narrative
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: A personal narrative outlining my transition from student to library and information professional. # Add post description (optional)
 tags: [Library Services Platform (LSP), Info. Curation]
 img: narrative1.jpg
 ---
@@ -15,19 +15,11 @@ After graduation, I left the academic library after ten years of service and I a
 
 Currently, I genuinely enjoy connecting students, faculty, staff, and the overall community with knowledge that supports and facilitates learning and research. Because connection is such a vital component of my role, I have also enjoyed developing processes and procedures to improve the selection, acquisition, and maintenance of print and digital resources. Therefore, a commitment to service drives me to inspire others by making meaning connections with people, thoughts, and ideas that support the library’s mission. My personal mission is to eliminate barriers to knowledge and ideas for students, faculty and staff by expanding access to information. Overall, I sincerely hope that this e-portfolio expresses my commitment the profession.
 
-
-In the following section, I wish to include a 3 minute video presentation providing a visual tour of the e-Portfolio:
-
-{% highlight ruby %}
-- Insert YouTube Video Presentation
-{% endhighlight %}
-
 ### Body
 
 To reflect on the student learning outcomes, I have utilized these outcomes to organize the artifacts within my e-Portfolio. These student learning outcomes are significant because they encapsulate the learning objectives of the Master of Library and Information Science (MLIS) and the core competencies of the American Library Association. In addition, the artifacts trace my progress and ultimate completion of the 39 credit MLIS program. While simplicity, in design and user interface, is my objective in creating this e-Portfolio, I also want to create a e-Portfolio that communicates my professional development through a specific branding style that utilizes color selection, design principles, and a visual identity. In addition, I have utilized a GitHub template to build my working e-Portfolio during the first half of the MLIS program. Towards the second half of the MLIS program, I seize this opportunity to practice front-end web development to customize my final e-Portfolio.
 
 The leadership and innovation goal showcases four artifacts. Each artifacts reinforce 4 ancillary goals that express my ability to engage and reflect on critical issues within librarianship and the information professional. I have selected these artifacts to clearly convey the core principles of the librarianship and the information profession: access, advocacy, intellectual freedom, literacy, equity, inclusion, and diversity. In addition, these artifacts situate these core principles within the overall mission of the library and information profession. One of the artifacts consist of a description of an emerging role within librarianship that transcends the traditional role of a librarian. This analysis is instrumental in understanding the rapid changes impacting the functions and services of the libraries. Through these artifacts, I strive to demonstrate how librarians and information professionals can utilize these tools to advocate for their patrons, while also conveying the relevance and necessity of libraries in our society.
-
 
 ### Conclusion
 
