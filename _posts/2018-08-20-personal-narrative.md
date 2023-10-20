@@ -29,6 +29,8 @@ As Director for Collection Management Services, with over 10 years of practical 
   <button onclick="window.location.href='https://eoroyal26.github.io/statement-of-integrity/';">Next</button>
 </div>
 
+<button type="button" onclick="window.location='https://eoroyal26.github.io/statement-of-integrity/'" class="btn btn-{{include.button_class}} active">Next</button> 
+
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
