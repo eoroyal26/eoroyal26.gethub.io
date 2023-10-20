@@ -50,8 +50,8 @@ a:hover {
 <body>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="background-color: papayawhip;"><a href="" class="previous">&laquo; Previous</a></p>
-  <p style="background-color: palegoldenrod;"><a href="" class="next">Next &raquo;</a></p>
+  <p style="background-color: papayawhip;"><a href="https://eoroyal26.github.io/knowledge-representation/" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: palegoldenrod;"><a href="https://eoroyal26.github.io/co-curricular-activities/" class="next">Next &raquo;</a></p>
 </div>
    
 </body>
