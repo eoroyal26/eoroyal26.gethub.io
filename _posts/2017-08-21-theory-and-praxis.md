@@ -21,6 +21,40 @@ Students will identify opportunities for research and develop plans for research
 
 This assignment focuses on the identification of research opportunities and the development of research application. More precisely, this assignment consists of an annotated bibliography that focuses on how libraries manage change throughout the migration to a new library service platform (LSP), which were previous known integrated library systems (ILS). I reviewed articles that highlighted the latest debates and discussions surrounding the best processes and procedures to manage a LSP migrations from premier scholars and researchers. Consequently, this annotation bibliography sets the foundation for a research paper that utilizes a special library as a unique case study. Because I recently managed the LSP migration within a special library, I used this assignment to conduct a strategic scan of the latest literature on this topic. After reviewing these articles, I realized that no research focused on LSP migrations for special libraries within the United States. Ultimately, I would like to use this assignment to begin a research paper focusing on a special library as a case study.
 
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #396CAA;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+<body>
+
+<div style="display: flex; justify-content: space-between;">
+  <p style="background-color: papayawhip;"><a href="" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: palegoldenrod;"><a href="" class="next">Next &raquo;</a></p>
+</div>
+   
+</body>
 
 <!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
 
