@@ -18,6 +18,10 @@ With this artifact, I accomplished my goals of recognizing and examining the var
 ## Goal II(b). 
 Students evaluate and select print and digital information resources and systems to meet the needs of users.
 
+<p><b>LIS 6603 Basic Information Sources and Services (Core Course).</b><br /><a href="https://law-stu.libguides.com/research-study-guide-lsp-migrations" target="blank">Research/Subject LibGuide: Library Services Platform (LSP) Migration.</a></p>
+
+With the aim of selecting and evaluating resources to meet the needs of academic librarians and students, I utilized a technological platform to create a subject guide through LibGuides. This subject guide could serve as a resource to guide academic librarians and academic law librarians through a Library Services Platform (LSP) migration. In addition, this subject guide may asssit students and faculty who would like to incorporate this research topic within their academic coursework. Because I am currently in the post-implementation stage of a LSP migration, I will share these resources with my fellow colleagues within my academic law library. These resources are invaluable because they convey the experiences and opinions of other librarians who have also experienced a migration to a new LSP. While LSP migrations can be daunting and challenging, migrations can be extremely exciting because we may contribute to transforming the organization’s structure, workflows, functions, and resilience.
+
 ## Goal II(c). 
 Students understand and use appropriate information technology for information services.
 
