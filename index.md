@@ -10,38 +10,28 @@ order: 1
     align-items: center;
     justify-content: center;
   }
-  
-  img {
-    max-width: 25%;
-    max-height:15%;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: left;
-  }
   </style>
   <body>
+        <div class="h1">
+        <h1>Introduction</h1>
+      </div>
     <div class="container">
       <div class="image">
         <img src="https://eoroyal26.github.io/assets/img/Placeholder_750-500.png">
       </div>
-      <div class="text">
-        <h1>Introduction</h1>
+      <div class="h1">
+        <h1>e-Portfolio Introduction</h1>
       </div>
-      <div class="text">
+      <div class="body">
         <p>This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field.</p>
       </div>
-       <div class="text">
+       <div class="body">
         <p>The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.</p>
       </div>
-    <div class="text">
-        <h3>Introduction</h3>
+    <div class="h3">
+        <h3>Learning Outcomes and Co-Curriculars</h3>
       </div>
-        <div class="text">
+        <div class="body">
         <ul>
 <li>Personal Narrative</li>
 <li>Statement of Integrity</li>
