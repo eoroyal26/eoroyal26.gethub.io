@@ -54,8 +54,8 @@ a {
 <body>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="background-color: papayawhip;"><a href="https://eoroyal26.github.io/e-portfolio/" class="previous">&laquo; Previous</a></p>
-  <p style="background-color: palegoldenrod;"><a href="https://eoroyal26.github.io/statement-of-integrity/" class="next">Next &raquo;</a></p>
+  <p style="background-color: transparent;"><a href="https://eoroyal26.github.io/e-portfolio/" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: transparent;"><a href="https://eoroyal26.github.io/statement-of-integrity/" class="next">Next &raquo;</a></p>
 </div>
    
 </body>
