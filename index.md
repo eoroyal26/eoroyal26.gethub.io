@@ -31,7 +31,7 @@ order: 1
   <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/48/bf/c9/48bfc9ae0a10418849a3f50d57c08897.jpg">
+        <img src="https://eoroyal26.github.io/assets/img/Placeholder_750-500.png">
       </div>
       <div class="text">
         <h1>This is a beautiful garden.</h1>
