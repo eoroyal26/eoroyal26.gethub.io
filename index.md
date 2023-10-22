@@ -24,7 +24,7 @@ order: 1
   .text {
     font-size: 20px;
     padding-left: 20px;
-    padding-top: 10%;
+    padding-top: 20%;
     float: left;
   }
   </style>
