@@ -16,15 +16,15 @@ order: 1
   }
   
   img {
-    max-width: 25%;
-    max-height:15%;
+    max-width: 100%;
+    max-height: auto;
     float: left;
   }
   
   .text {
     font-size: 20px;
     padding-left: 20px;
-    padding-top: 20%;
+    padding-top: 10%;
     float: left;
   }
   </style>
