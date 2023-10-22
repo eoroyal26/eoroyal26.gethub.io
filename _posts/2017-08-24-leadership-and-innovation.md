@@ -5,7 +5,7 @@ description: Artifacts conveying innovation, ethics, and problem-solving solutio
 tags: [School & Public Libraries, Web Development, Project Management]
 img: leadership1.jpg
 ---
-<p><b>Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.</b></p>
+Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
 <p><b>Goal I(a).</b></p>
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
