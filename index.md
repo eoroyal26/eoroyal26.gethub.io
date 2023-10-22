@@ -5,40 +5,12 @@ order: 1
 ---
 {% include author-box.html %}
 
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-<meta name="description" content="Porfolio Page with Tabbed Content"/>
-
-<title>Bootstrap Tabbed Portfolio Page</title>
-
-<link rel="icon" type="image/x-icon" href="assets/favicon.ico"/>
-
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"/>
-
-<link href="css/styles.css" rel="stylesheet"/>
-<style> 
-.nav-link, .nav-link:active, nav-link:visited {
-border: none !important;
-outline: 0;
-}
-</style>
-</head>
-
 <body>
 
-<main class="container">
-<section class="tab-content">
+<h1>Introduction</h1>
 
-
-<div class="tab-pane active" id="project1" role="tabpanel" aria-labelledby="project1-tab">
-<h1 class="my-4">Introduction</h1>
-<div class="row">
-<div class="col-md-8">
 <img class="img-fluid" src="https://eoroyal26.github.io/assets/img/Placeholder_750-500.png" alt="">
-</div>
-<div class="col-md-4">
+
 <h3 class="my-3">e-Portfolio Introduction</h3>
 
 <p>This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field.</p>
@@ -46,7 +18,7 @@ outline: 0;
 <p>The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.</p>
 
 
-<h3 class="my-3">Learning Outcomes and Co-Curriculars</h3>
+<h3>Learning Outcomes and Co-Curriculars</h3>
 <ul>
 <li>Personal Narrative</li>
 <li>Statement of Integrity</li>
@@ -56,14 +28,6 @@ outline: 0;
 <li>Goal IV: Theory and Praxis</li>
 <li>Co-Curricular Activities</li>
 </ul>
-</div>
-</div>
-</div>
-
-
-</div>
-</nav>
-</main>
 
 </body>
 </html>
