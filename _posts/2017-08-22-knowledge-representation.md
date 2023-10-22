@@ -22,32 +22,6 @@ Students identify and apply best practices in the use of different technologies 
 
 I aimed to recognize and employ best practices for linked data through this brief research paper exploring the latest developments of the Bibliographic Framework (BIBFRAME) initiative. As implemented through the BIBFRAME initiative, linked data is an important technology for the organization and interoperability of data because it utilizes Web 2.0 technologies to link web information with information isolated within library systems. Therefore, libraries will be able to link their special collections to web platforms throughout the world. While this technology has developed in an incremental manner, institutions are accelerating the development of BIBFRAME initiatives to cultivate the benefits of this exciting technology for libraries and information organizations. 
 
-<style>
-a {
-  text-decoration: none;
-  display: inline-block;
-  padding: 8px 16px;
-}
-
-a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.previous {
-  background-color: #f1f1f1;
-  color: black;
-}
-
-.next {
-  background-color: #396CAA;
-  color: white;
-}
-
-.round {
-  border-radius: 50%;
-}
-</style>
 <body>
 
 <div style="display: flex; justify-content: space-between;">
