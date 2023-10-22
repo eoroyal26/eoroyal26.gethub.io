@@ -41,9 +41,9 @@ outline: 0;
 <div class="col-md-4">
 <h3 class="my-3">e-Portfolio Introduction</h3>
 
-This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field.
+<p>This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field.</p>
 
-The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.
+<p>The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.</p>
 
 
 <h3 class="my-3">Learning Outcomes and Co-Curriculars</h3>
@@ -64,8 +64,6 @@ The e-Portfolio is anchored by a personal narrative that includes a summary of t
 </div>
 </nav>
 </main>
-<footer class="text-center">Forked with ❤ by JP pineapp1es from StartBootstrap.com</footer>
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
