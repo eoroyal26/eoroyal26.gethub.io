@@ -32,7 +32,7 @@ a {
   padding: 8px 16px;
 }
 
-a:hover {
+> # a:hover {
   background-color: #ddd;
   color: black;
 }
