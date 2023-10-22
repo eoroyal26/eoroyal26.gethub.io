@@ -25,7 +25,7 @@ The leadership and innovation goal showcases four artifacts. Each artifacts rein
 
 As Director for Collection Management Services, with over 10 years of practical library experience, the MLIS degree has facilitated me with a solid theoretical foundation. With this foundation, I have been able to create an e-Portfolio that expresses the ultimate culmination of my learning outcomes. These learning outcomes relate to being a steward of the profession, a facilitator of services, a communicator of ideas, and an effective researcher who analyzes diverse ideas. As I reflect on my progress, throughout the MLIS program, I clearly detect how my professional experiences informed my course selection and my co-curricular activities. As a working professional and graduate student, I utilized the MLIS program to fill-in any gaps or deficiencies in my practical or professional experience. Thank you for your time.
 
-<style>
+> # <style>
 a {
   text-decoration: none;
   display: inline-block;
