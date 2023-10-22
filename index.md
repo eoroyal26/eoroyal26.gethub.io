@@ -4,38 +4,26 @@ title: Home
 order: 1
 ---
 {% include author-box.html %}
+<style></style>
+.box {
+  display: flex;
+  align-items: flex-start;
+  height: 200px;
+}
+.box>*:first-child {
+  align-self: stretch;
+}
+.box .selected {
+  align-self: center;
+}
+</style>
 
-<html>
-  <head>
-    <title>Pretty flower</title>
-  </head>
-  <style>
-  .container {
-    align-items: center;
-    justify-content: center;
-  }
-  
-  img {
-    max-width: 100%;
-    max-height: auto;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: right;
-  }
-  </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="https://eoroyal26.github.io/assets/img/Placeholder_750-500.png">
-      </div>
-      <div class="text">
-        <h1>This is a beautiful garden.</h1>
-      </div>
-    </div>
-  </body>
-</html>
+<body>
+
+<div class="box">
+  <div>One</div>
+  <div>Two</div>
+  <div class="selected">Three</div>
+  <div>Four</div>
+</div>  
+</body>
