@@ -32,8 +32,8 @@ With the Art Corner: Virtual Library Collection, I created a digital collection 
 <body>
 
 <div style="display: flex; justify-content: space-between;">
-  <p style="background-color: papayawhip;"><a href="https://eoroyal26.github.io/leadership-and-innovation/" class="previous">&laquo; Previous</a></p>
-  <p style="background-color: palegoldenrod;"><a href="https://eoroyal26.github.io/knowledge-representation/" class="next">Next &raquo;</a></p>
+  <p style="background-color: transparent;"><a href="https://eoroyal26.github.io/leadership-and-innovation/" class="previous">&laquo; Previous</a></p>
+  <p style="background-color: transparent;"><a href="https://eoroyal26.github.io/knowledge-representation/" class="next">Next &raquo;</a></p>
 </div>
    
 </body>
