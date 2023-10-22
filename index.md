@@ -5,12 +5,6 @@ order: 1
 ---
 {% include author-box.html %}
 
-  <style>
-  .container {
-    align-items: center;
-    justify-content: center;
-  }
-  </style>
   <body>
         <div class="h1">
         <h1>Introduction</h1>
