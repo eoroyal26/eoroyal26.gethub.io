@@ -42,32 +42,6 @@ Students demonstrate leadership skills and innovation in diverse and global envi
 
 With this artifact, I demonstrate the importance of leadership and innovation within the context of an integrated enterprise software for a global enterprise. This artifact explores Nike’s project failure that produced a supply chain disruption for the world’s largest shoe and apparel company. Furthermore, this case study aims to explore alternative to how Nike could have led and innovated better processes and procedures to avoid this project failure of a poorly integrated supply chain management (SCM) software, an enterprise resource planning (ERP) software, and a customer relationship management. Ultimately, I chose this project failure because it may serve as a guide for libraries integrating a multitude of technologies and services.
 
-<style>
-a {
-  text-decoration: none;
-  display: inline-block;
-  padding: 8px 16px;
-}
-
-a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.previous {
-  background-color: #f1f1f1;
-  color: black;
-}
-
-.next {
-  background-color: #396CAA;
-  color: white;
-}
-
-.round {
-  border-radius: 50%;
-}
-</style>
 <body>
 
 <div style="display: flex; justify-content: space-between;">
