@@ -12,7 +12,7 @@ Students can evaluate critically, reflect, and problem-solve individually as wel
 
 <p><b>LIS 6455 Organization and Administration of the School Media Center (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS3.pdf" target="blank">School and Collection Overview: Norland Middle School</a></p>
 
-As a collaborative effort with a Omelia S. Clemmons, School Library Media Specialist at Norland Middle School, I aimed to fulfill the elements of the assignment, while establishing a rapport with Ms. Clemmons. Ms. Clemmons was instrumental in providing access to collection data, budget information, and evaluation for the 2022-2023 academic year. Consequently, I evaluated all pertinent data to ensure a high degree of analytical accuracy that provided a comprehensive overview of the school’s collection and its impact on the school’s academic and instructional goals.
+As a collaborative effort with a School Library Media Specialist at Norland Middle School, I aimed to fulfill the elements of the assignment, while establishing a rapport with the School Media Specialist was instrumental in providing access to collection data, budget information, and evaluation for the 2022-2023 academic year. Consequently, I evaluated all pertinent data to ensure a high degree of analytical accuracy that provided a comprehensive overview of the school’s collection and its impact on the school’s academic and instructional goals.
 
 <p><b>LIS 6511 Collection Development (Core Course).</b><br/><a href="https://sites.google.com/view/fairuseguide/home" target="blank">Professional Development Materials for Copyright Compliance</a></p>
 
