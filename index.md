@@ -25,7 +25,7 @@ order: 1
     font-size: 20px;
     padding-left: 20px;
     padding-top: 20%;
-    float: left;
+    float: right;
   }
   </style>
   <body>
