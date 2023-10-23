@@ -1,5 +1,5 @@
 /* = = = = = = = = = = Home Styles = = = = = = = = = = */
-.Home {
+.home {
   margin:0;
 padding:0;
 box-sizing: border-box;
@@ -12,7 +12,7 @@ align-items: center;
 min-height: 100vh;
 background: transparent;
 }
-.Home .wrapper {
+.home .wrapper {
   margin: 150px auto;
 width: 70%;
 }
@@ -23,12 +23,12 @@ border: 3px solid transparent;
 border-radius: 10px;
 margin-right: 15px;
 }
-.Home .text-box{
+.home .text-box{
   color: #000000
 }
-.Home .text-box h2 {
+.home .text-box h2 {
 font-size: 40px;
 }
-.Home .text-box p {
+.home .text-box p {
 font-size: 16px;
 }
