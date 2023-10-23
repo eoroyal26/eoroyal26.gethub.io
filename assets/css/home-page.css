@@ -1,5 +1,5 @@
-/* = = = = = = = = = = Home Styles = = = = = = = = = = */
-.home {
+/* = = = = = = = = = = home-page styles = = = = = = = = = = */
+.home-page {
   margin:0;
 padding:0;
 box-sizing: border-box;
@@ -12,7 +12,7 @@ align-items: center;
 min-height: 100vh;
 background: transparent;
 }
-.home .wrapper {
+.home-page .wrapper {
   margin: 150px auto;
 width: 70%;
 }
@@ -23,12 +23,12 @@ border: 3px solid transparent;
 border-radius: 10px;
 margin-right: 15px;
 }
-.home .text-box{
+.home-page .text-box{
   color: #000000
 }
-.home .text-box h2 {
+.home-page .text-box h2 {
 font-size: 40px;
 }
-.home .text-box p {
+.home-page .text-box p {
 font-size: 16px;
 }
