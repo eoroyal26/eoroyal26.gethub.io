@@ -3,12 +3,6 @@ layout: home-page
 title: Home
 order: 1
 
-profile:
-  align: left
-  image: Placeholder1.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <s>Click on Button above to access e-Porfolio</s>
 ---
 
 {% include author-box.html %}
