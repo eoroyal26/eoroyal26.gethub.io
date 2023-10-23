@@ -7,6 +7,7 @@ order: 3
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
+<body>
 <section class="blog-tags">
   <ul class="tags">
 <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
@@ -28,8 +29,9 @@ order: 3
     {% endif %}{% endfor %}
   {% endunless %}{% endfor %}
 </section>
-<body>
-[![View e-Portfolio]({{site.baseurl}}/assets/img/portfolio-button3.png)](https://eoroyal26.github.io/e-portfolio/)
-<small>Click on the button above to view the e-Portfolio webpage, which contains thumbnails to each goal, outcome, artifact.</small>
+
+<p><a href="https://eoroyal26.github.io/e-portfolio/">
+      <img alt="View e-Portfolio" src="https://eoroyal26.github.io/assets/img/portfolio-button3.png">
+   </a></p>
 </body>
 
