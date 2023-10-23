@@ -30,6 +30,7 @@ As Director for Collection Management Services, with over 10 years of practical 
 <p style="text-align:center;"> 
 <img src="https://eoroyal26.github.io/assets/img/e-Portfolio-Site1.png" alt=""><small>The image above illustrates the landing page of the e-Portfolio.</small></p>
 
+While striving to accomplish a minimal and a simple design, I have curated a series of navigational cues to guide you, the visitor, throughout my development as paraprofessional librarian, student of library studies, and professional librarian. Towards the bottom of the Home page, you can start your journey by clicking on the “View e-Portfolio” button to visit the e-Portfolio site. In addition, you may also select the hamburger menu icon to browse through the four primary pages: “Home,” “CV,” “E-Portfolio,” and “Tags.” Similarly, to the Home page, the other primary pages have active buttons to the e-Portfolio preview page. The e-Portfolio page consists of a series of hyperlinked rectangular tiles that contain images. These thumbnails direct you to the secondary pages. These pages contain the artifacts, the goals and the outcomes of the MLIS degree. Throughput each secondary page, you can toggle back and forth with the “next” and “previous” link near the footer of each page.
 
 <body>
 
