@@ -5,6 +5,7 @@ order: 1
 ---
 {% include author-box.html %}
 
+<link rel="stylesheet" href="{{ root_url }}/css/main.css">
 <section class="home-page-format">
   <div class="wrapper">
   <img src="https://eoroyal26.github.io/assets/img/Placeholder2.png" alt="">
