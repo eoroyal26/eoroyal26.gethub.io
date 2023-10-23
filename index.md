@@ -9,19 +9,6 @@ order: 1
 
 ## e-Portfolio Introduction
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/co-curricular2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/co-curricular2.jpg"" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-</div>
-
-
 This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field. 
 
 ## Learning Outcomes and Co-Curriculars:
