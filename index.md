@@ -21,6 +21,7 @@ order: 1
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 
+
 This e-Portfolio showcases artifacts from academic work and co-curricular activities conducted during the completion of the 39-credit hours M.A. in Library and Information Science (MLIS) degree at the University of South Florida’s (USF’s) School of Information (SI). As a professional statement, this e-Portfolio illustrates a culminating assessment of the skills and knowledge necessary to work in the Library and Information Science field. 
 
 ## Learning Outcomes and Co-Curriculars:
