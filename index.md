@@ -26,6 +26,6 @@ This e-Portfolio showcases artifacts from academic work and co-curricular activi
 - Co-Curricular Activities
 
 [![View e-Portfolio]({{site.baseurl}}/assets/img/portfolio-button2.png)](https://eoroyal26.github.io/e-portfolio/)
-<small>Click on the button above to view the e-Portfolio webpage that contains thumbnails to each entry.</small>
+<small>Click on the button above to view the e-Portfolio webpage, which contains thumbnails to each goal, outcome, artifact.</small>
 
 The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.   
