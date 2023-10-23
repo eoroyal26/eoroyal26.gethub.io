@@ -28,8 +28,8 @@ As Director for Collection Management Services, with over 10 years of practical 
 ### Navigating the e-Portfolio
 
 <p style="text-align:center;"> 
-<img src="https://eoroyal26.github.io/assets/img/e-Portfolio-Site1.png" alt=""></p>
-<s>The image above illustrates the landing page of the e-Portfolio.</s>
+<img src="https://eoroyal26.github.io/assets/img/e-Portfolio-Site1.png" alt=""><small>The image above illustrates the landing page of the e-Portfolio.</small></p>
+
 
 <body>
 
