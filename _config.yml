@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: '/:title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://eroryal26.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/royal-logo1.svg"
+logo: "/assets/img/royal-logo2.svg"
 logo-icon: > # "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: > # "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
 
