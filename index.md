@@ -28,4 +28,9 @@ This e-Portfolio showcases artifacts from academic work and co-curricular activi
 [![View e-Portfolio]({{site.baseurl}}/assets/img/Portfolio-Button5.png)](https://eoroyal26.github.io/e-portfolio/)
 <small>Click button to view the e-Portfolio webpage.</small>
 
+<a href="https://eoroyal26.github.io/e-portfolio/"><p align="center" width="100%">
+    <img width="100%" src="https://eoroyal26.github.io/assets/img/Portfolio-Button5.png">
+</p></a>
+
+
 The e-Portfolio is anchored by a personal narrative that includes a summary of the design and organization of the e-Portfolio. In addition, the summary includes a description of the process to create the e-Portfolio. The statement of integrity asserts that this e-Portfolio adheres to ethical responsibility, ensures original authorship of the artifacts, and protects the identity of individuals and institutions.   
