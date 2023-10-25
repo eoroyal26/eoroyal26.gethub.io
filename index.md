@@ -28,8 +28,8 @@ This e-Portfolio showcases artifacts from academic work and co-curricular activi
 [![View e-Portfolio]({{site.baseurl}}/assets/img/Portfolio-Button5.png)](https://eoroyal26.github.io/e-portfolio/)
 <small>Click button to view the e-Portfolio webpage.</small>
 
-<a href="https://eoroyal26.github.io/e-portfolio/"><p align="center" width="100%">
-    <img width="100%" src="https://eoroyal26.github.io/assets/img/Portfolio-Button5.png">
+<a href="https://eoroyal26.github.io/e-portfolio/"><p align="center">
+    <img src="https://eoroyal26.github.io/assets/img/Portfolio-Button5.png">
 </p></a>
 
 
