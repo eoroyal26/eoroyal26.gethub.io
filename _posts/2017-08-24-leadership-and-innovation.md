@@ -7,7 +7,7 @@ img: leadership1.jpg
 ---
 Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
-# Goal I(a)
+# Goal I(a).
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 <p><b>LIS 6455 Organization and Administration of the School Media Center (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS4.pdf" target="blank">School and Collection Overview: Norland Middle School</a></p>
@@ -18,21 +18,21 @@ As a collaborative effort with a School Library Media Specialist at Norland Midd
 
 In my capacity as Director for Collection Management Services, I noticed a clear misunderstanding from faculty concerning the Fair Use doctrine as outlined by Section 107 of the United States Copyright Act of 1976. Therefore, I have developed a guide that explores the acceptable uses of the Fair Use exception and the clear limitations to this expectation. With this, the University may avoid copyright violation, which be result in a lawsuit from a publisher or author. With this artifact, I can evaluate and reflect on the needs of the faculty, while also resolving their issues with the Fair Use doctrine.
 
-# Goal I(b)
+# Goal I(b).
 Students demonstrate effective communication skills.
 
 <p><b>LIS 5020 Foundation of Library and Information (Core Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Poster_Managers-of-Digital-Libraries2.pdf" target="blank">Poster Design: Managers of Digital Libraries</a></p>
 
 The goal of this assignment was to describe and illustrate an emerging role for librarians that transcend the “traditional” role of a librarians. With a series of peer-reviewed resources, I conveyed the emerging role of digital librarians as presenting new opportunities and challenges for librarians. While I conveyed my initial ideas through words, I strategically retracted the text to balance the messaging of the images or diagrams. Overall, effective communication consists of an iterative process of collecting, editing, revision, and removing information to achieve clarity and impact.
 
-# Goal I(c)
+# Goal I(c).
 Students participate in professional and community engagement activities in the field.
 
 <p><b>LIS 6445 Public Library Seminar (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Government-Meeting-Report.pdf" target="blank">Government Meeting Assignment: Miami Dade County</a></p>
 
 As the culminating assignment of the course, I was able to distill all vital elements of public librarianship within the Miami-Dade Board of County Commissioners (BOCC) meeting. While I gained an intimate understanding of the governing body of the BOCC, I developed a deeper understanding of how the BOCC appropriates its budget to fund the essential services of Miami-Dade County. I also nurtured a profound comprehension of how the funding of public libraries supports the county’s commitment to democratic and social values. Overall, this artifact illustrates the significance of community engagement in public government and how public engagement has a remarkable influence on public funding and policy.
 
-# Goal I(d)
+# Goal I(d).
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
 <p><b>LIS 6404 Project Management for Information Professionals (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Project-Proposal.pdf" target="blank">Case Study: Nike's Integrated Enterprise Software</a></p>
