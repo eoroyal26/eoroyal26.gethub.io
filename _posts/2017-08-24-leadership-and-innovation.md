@@ -7,7 +7,7 @@ img: leadership1.jpg
 ---
 Goal I: Students are innovative, ethical, problem-solvers able to lead and manage through communication, collaboration, and reflection.
 
-# Goal I(a).
+# Goal I(a)
 Students can evaluate critically, reflect, and problem-solve individually as well as collaboratively.
 
 <p><b>LIS 6455 Organization and Administration of the School Media Center (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/School-Collection-Overview_NMS4.pdf" target="blank">School and Collection Overview: Norland Middle School</a></p>
@@ -32,7 +32,7 @@ Students participate in professional and community engagement activities in the 
 
 As the culminating assignment of the course, I was able to distill all vital elements of public librarianship within the Miami-Dade Board of County Commissioners (BOCC) meeting. While I gained an intimate understanding of the governing body of the BOCC, I developed a deeper understanding of how the BOCC appropriates its budget to fund the essential services of Miami-Dade County. I also nurtured a profound comprehension of how the funding of public libraries supports the county’s commitment to democratic and social values. Overall, this artifact illustrates the significance of community engagement in public government and how public engagement has a remarkable influence on public funding and policy.
 
-# Goal I(d).
+# Goal I(d)
 Students demonstrate leadership skills and innovation in diverse and global environment.
 
 <p><b>LIS 6404 Project Management for Information Professionals (Elective Course).</b><br/><a href="https://eoroyal26.github.io/assets/pdf/Project-Proposal.pdf" target="blank">Case Study: Nike's Integrated Enterprise Software</a></p>
