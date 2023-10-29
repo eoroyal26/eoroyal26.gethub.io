@@ -43,4 +43,4 @@ __Technical Services Assistant__, St. Thomas University: Law Library
 Maintained an expanding legal collection. Performed Circulation duties. Collaborated with law librarians in organizing patron and library records, which improved the usability and efficiency of the library's collection and online catalog. Relocated large sections of the collection within tight renovation deadlines.
 
 <p style="text-align:center;"><a href="https://eoroyal26.github.io/e-portfolio/">
-    <img src="https://eoroyal26.github.io/assets/img/Portfolio-Button5.png"><br/></a><small>Click button to view the e-Portfolio.</small></p>
+    <img src="https://eoroyal26.github.io/assets/img/Portfolio-Button8.png"><br/></a><small>Click button to view the e-Portfolio.</small></p>
